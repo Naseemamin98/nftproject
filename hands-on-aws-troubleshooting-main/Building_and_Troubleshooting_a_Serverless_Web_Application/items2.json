@@ -1,5 +1,5 @@
 {
-    "Unicorns": [
+    "unicorns": [
         {
             "PutRequest": {
                 "Item": {
